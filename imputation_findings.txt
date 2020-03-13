@@ -1,0 +1,5 @@
+11204 features (columns) with missing values
+every row contains 0 values —> drop row does not leave any rows 
+                                and is therefore not a good imputation technique for this data set
+imputation with mean value seems to have worked, dataset is uploaded on google drive
+multivariable imputation (cold or hot deck imputation) code works, but the output is not sensible, so something is going wrong there
